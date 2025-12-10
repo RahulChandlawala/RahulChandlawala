@@ -35,22 +35,6 @@
 
 ---
 
-## 🧩 Featured Projects
-
-🔗 **CodePhusion**  
-A modern digital agency website built using Next.js and Tailwind  
-➡️ https://www.codephusion.com/
-
-🔗 **Octopus Advisors**  
-A clean, minimal, high-performance website for a consultancy firm  
-➡️ https://www.octopusadvisors.com/
-
-🔗 **Phokus**  
-A product website built with reusable components & scalable UI patterns  
-➡️ https://www.phokus.io/
-
----
-
 ## 📘 Latest Learnings & Experiments
 
 - 🔥 Created interactive **JS Array & String method cheat sheets**
