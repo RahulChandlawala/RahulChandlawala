@@ -24,6 +24,8 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=fff)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=fff)
+![Gatsby](https://img.shields.io/badge/Gatsby-663399?logo=gatsby&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
 
 ### 🎨 UI Libraries
 ![MUI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=fff)
