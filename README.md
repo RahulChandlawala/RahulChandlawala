@@ -29,6 +29,7 @@
 ![MUI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=fff)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=fff)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=black)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=white)
 
 ### ⚙️ Tools / Others  
