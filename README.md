@@ -29,6 +29,7 @@
 ![MUI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=fff)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=fff)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=white)
 
 ### ⚙️ Tools / Others  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
