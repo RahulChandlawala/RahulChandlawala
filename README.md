@@ -23,6 +23,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)
 
 ### 🎨 UI Libraries
 ![MUI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=fff)
