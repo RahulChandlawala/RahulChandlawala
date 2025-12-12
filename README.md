@@ -54,7 +54,7 @@
 
 ## 📘 Latest Learnings & Experiments
 
-- 🔥 Created interactive **JS Array & String method cheat sheets**
+- 🔥 Created multiple dynamic, high-performance websites using React, Next.js, and modern frontend tooling—optimised for speed, accessibility, SEO, and maintainability.
 - 🧠 Diving deeper into **Next.js Server Components**
 - 🏗️ Building custom UI components:
   - React DataGrid
