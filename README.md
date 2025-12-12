@@ -35,6 +35,8 @@
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=black)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=white)
 ![Swiper](https://img.shields.io/badge/Swiper-6332F6?logo=swiper&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?logo=reactquery&logoColor=white)
 
 ### 🏗️ Website Builders & CMS
 
