@@ -28,6 +28,7 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
 
+
 ### 🎨 UI Libraries
 ![MUI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=fff)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=fff)
@@ -45,6 +46,9 @@
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=white)
 ![Webflow](https://img.shields.io/badge/Webflow-146EF5?logo=webflow&logoColor=white)
 ![Strapi](https://img.shields.io/badge/Strapi-2E7EEA?logo=strapi&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?logo=adobexd&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?logo=framer&logoColor=white)
 
 ### ⚙️ Tools / Others  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
