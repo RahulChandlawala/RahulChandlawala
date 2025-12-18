@@ -44,6 +44,7 @@
 ![Wix](https://img.shields.io/badge/Wix-0C6EFC?logo=wix&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=white)
 ![Webflow](https://img.shields.io/badge/Webflow-146EF5?logo=webflow&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi-2E7EEA?logo=strapi&logoColor=white)
 
 ### ⚙️ Tools / Others  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
