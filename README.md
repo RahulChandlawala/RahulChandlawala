@@ -52,8 +52,12 @@
 
 ### ⚙️ Tools / Others  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=fff)
+![Figma](https://img.shields.io/badge/Figma-white?logo=figma&logoColor=multicolor)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff)
+![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 
 ---
 
