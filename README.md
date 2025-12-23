@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rahul</h1>
+<h1 align="center">Hi 👋, I'm Rahul Chandlawala</h1>
 <h3 align="center">A Passionate Frontend Developer | React • Next.js • TypeScript</h3>
 
 ---
