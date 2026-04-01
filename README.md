@@ -81,7 +81,6 @@
 ---
 
 ## ⭐ Fun Stuff  
-- I enjoy debugging tricky JS behavior (`==`, prototype chains, closures).
 - I love creating reusable snippets, cheat sheets, and utilities.
 - Big fan of clean, readable UI code.
 
