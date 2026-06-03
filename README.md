@@ -5,12 +5,17 @@
 
 ## 🚀 About Me
 
-- 💻 I’m a **Frontend Developer** who loves building scalable UIs, reusable components, and clean architecture.
-- ⚙️ Experienced with **React, Next.js 13/14/15/16 (App Router, Page Router), React, Angular, Vue.js, TypeScript, MUI, Tailwind, Bootstrap, Zustand, React Query, webflow, wordpress*.
-- 🧪 I enjoy solving tricky JS problems, creating cheat sheets, and optimising UI performance.
-- 🛠️ Previously worked as an **Electrical Panel Designer** using AutoCAD before transitioning into software.
-- 🌱 Currently exploring **full-stack development** with Next.js API routes and server actions, and also Node.js and Express.
+- 💻 I'm a Frontend Developer passionate about building scalable web applications, reusable UI components, and maintainable frontend architectures that deliver exceptional user experiences.
 
+- ⚙️ Experienced with React, Next.js (13–16), TypeScript, Angular, Vue.js, Material UI (MUI), Tailwind CSS, Bootstrap, Zustand, React Query, Webflow, and WordPress, with hands-on experience across both App Router and Pages Router architectures.
+
+- 🧪 I enjoy tackling complex JavaScript challenges, optimizing application performance, improving accessibility, and creating developer-friendly solutions that enhance productivity and code quality.
+
+- 🚀 Focused on building fast, responsive, and SEO-friendly applications while following modern frontend best practices and performance optimization techniques.
+
+- 🛠️ Before transitioning into software development, I worked as an Electrical Panel Designer using AutoCAD, which strengthened my problem-solving skills, attention to detail, and engineering mindset.
+
+- 🌱 Currently expanding my expertise into full-stack development, exploring Next.js Server Components, API Routes, Server Actions, and backend technologies such as Node.js, Express.js, and databases.
 ---
 
 ## 🧰 Tech Stack
