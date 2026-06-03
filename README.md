@@ -69,10 +69,15 @@
 ## 📘 Latest Learnings & Experiments
 
 - 🚀 Built and delivered multiple high-performance, responsive web applications using React, Next.js, TypeScript, and modern frontend technologies, with a strong focus on performance, accessibility, SEO, and maintainable architecture.
+  
 - 🧠 Deepening my expertise in Next.js Server Components, App Router, and modern rendering strategies to build faster and more scalable applications.
+  
 - 🏗️ Designing and developing reusable, scalable UI component libraries that improve consistency, developer experience, and development speed.
+  
 - ⚡ Exploring advanced frontend optimisation techniques, including code splitting, lazy loading, caching strategies, and Core Web Vitals improvements.
+  
 - 🎨 Enhancing user experiences through responsive design, accessibility best practices, and pixel-perfect implementation from Figma designs.
+  
 - 🔍 Continuously experimenting with modern frontend patterns, state management solutions, and performance-focused development workflows.
 
 
