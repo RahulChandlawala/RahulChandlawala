@@ -92,6 +92,7 @@
 ## ⭐ Fun Stuff  
 - I love creating reusable snippets, cheat sheets, and utilities.
 - Big fan of clean, readable UI code.
+- Big fan of video games, anime and manga
 
 ---
 
