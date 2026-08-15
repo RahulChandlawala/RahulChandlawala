@@ -185,63 +185,53 @@
 
 ## 💡 A Little More About Me
 
-```javascript
-const rahul = {
-  role: "Frontend Developer",
 
-  technologies: {
-    frontend: [
-      "React",
-      "Next.js",
-      "TypeScript",
-      "JavaScript",
-      "Angular",
-      "Vue.js"
-    ],
 
-    styling: [
-      "MUI",
-      "Tailwind CSS",
-      "SCSS",
-      "Bootstrap"
-    ],
 
-    stateManagement: [
-      "Zustand",
-      "React Query"
-    ],
 
-    backend: [
-      "Node.js",
-      "Express.js",
-      "MongoDB"
-    ],
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>🚀 What I Build</h3>
+      <p>
+        Scalable Web Applications<br/>
+        Reusable UI Components<br/>
+        Responsive Interfaces<br/>
+        SEO-Friendly Websites
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <h3>⚡ What I Focus On</h3>
+      <p>
+        Performance Optimization<br/>
+        Accessibility<br/>
+        Clean Architecture<br/>
+        Core Web Vitals
+      </p>
+    </td>
+  </tr>
 
-    cms: [
-      "WordPress",
-      "Webflow",
-      "Strapi",
-      "Shopify"
-    ]
-  },
-
-  focus: [
-    "Performance",
-    "Accessibility",
-    "SEO",
-    "Reusable Components",
-    "Clean Architecture"
-  ],
-
-  currentlyLearning: [
-    "Next.js Server Components",
-    "Server Actions",
-    "Full-Stack Development"
-  ],
-
-  funFact:
-    "Before becoming a developer, I designed electrical panels using AutoCAD."
-};
+  <tr>
+    <td align="center" width="50%">
+      <h3>🧠 Currently Learning</h3>
+      <p>
+        Next.js Server Components<br/>
+        Server Actions<br/>
+        Node.js & Express<br/>
+        Full-Stack Development
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🎨 I Enjoy</h3>
+      <p>
+        Clean UI Design<br/>
+        Figma to Code<br/>
+        Reusable Utilities<br/>
+        Developer Experience
+      </p>
+    </td>
+  </tr>
+</table>
 ```
 
 ---
