@@ -72,12 +72,12 @@
 
 <!-- Replace REPO_1 / REPO_2 with your best repositories -->
 <p align="center">
-  <a href="https://github.com/RahulChandlawala/REPO_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RahulChandlawala&repo=REPO_1&theme=react&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/RahulChandlawala/REPO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RahulChandlawala&repo=REPO_2&theme=react&hide_border=true&bg_color=0D1117" />
-  </a>
+<a href="https://github.com/RahulChandlawala/my-portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RahulChandlawala&repo=my-portfolio&theme=react&hide_border=true&bg_color=0D1117" />
+</a>
+ <a href="https://github.com/RahulChandlawala/my-portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RahulChandlawala&repo=my-portfolio&theme=react&hide_border=true&bg_color=0D1117" />
+</a>
 </p>
 
 ---
