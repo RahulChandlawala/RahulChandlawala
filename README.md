@@ -1,251 +1,152 @@
-# 👋 Hi, I'm Rahul Chandlawala
-
+<!-- ====================== HEADER ====================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Rahul%20Chandlawala&fontSize=42&fontAlignY=35&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:61DAFB&height=220&section=header&text=Rahul%20Chandlawala&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Frontend%20Developer%20%E2%80%A2%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20TypeScript&descAlignY=58&descSize=18&animation=twinkling" width="100%" alt="Header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=800&lines=Frontend+Developer+%7C+React+%7C+Next.js+%7C+TypeScript;Building+Scalable+%26+Performant+Web+Applications;Creating+Reusable+UI+Components;Performance+%7C+Accessibility+%7C+SEO;Always+Learning%2C+Always+Building" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=50&lines=Hi+there%2C+I'm+Rahul+%F0%9F%91%8B;I+build+fast%2C+accessible+web+apps+%E2%9A%A1;Figma+%E2%9E%9C+Pixel-perfect+UI+%F0%9F%8E%A8;Now+leveling+up+to+Full-Stack+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/RahulChandlawala">
-    <img src="https://komarev.com/ghpvc/?username=RahulChandlawala&label=Profile%20Views&color=61DAFB&style=flat" />
-  </a>
-  <a href="https://github.com/RahulChandlawala?tab=followers">
-    <img src="https://img.shields.io/github/followers/RahulChandlawala?label=Followers&style=flat&color=61DAFB" />
-  </a>
-  <a href="https://github.com/RahulChandlawala?tab=repositories">
-    <img src="https://img.shields.io/github/stars/RahulChandlawala?label=Stars&style=flat&color=61DAFB" />
-  </a>
+  <a href="mailto:rahulchandlawala@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.upwork.com/freelancers/~014e3e16bbdd240029"><img src="https://img.shields.io/badge/Hire%20me%20on%20Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Open%20to-Freelance%20Work-61DAFB?style=for-the-badge&logo=checkmarx&logoColor=black" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RahulChandlawala&label=Profile%20Views&color=61DAFB&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/RahulChandlawala?label=Followers&style=flat-square&color=61DAFB" />
+  <img src="https://img.shields.io/github/stars/RahulChandlawala?label=Stars&style=flat-square&color=61DAFB" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> About Me
 
-<img align="right" width="360" src="https://media.giphy.com/media/qgQUggACo3Pfv687qPC/giphy.gif" />
+<table>
+<tr>
+<td width="58%" valign="top">
 
-* 💻 Frontend Developer passionate about building scalable web applications, reusable UI components, and maintainable frontend architectures.
+```ts
+const rahul = {
+  role: "Frontend Developer",
+  location: "Surat, India 🇮🇳",
+  focus: ["Performance", "Accessibility", "SEO", "Clean Architecture"],
+  stack: ["React", "Next.js", "TypeScript", "Tailwind", "MUI"],
+  currentlyLearning: ["Server Components", "Server Actions", "Node.js", "Express"],
+  formerly: "Electrical Panel Designer (AutoCAD) ⚡",
+  funFact: "Bugs fear my console.log() 🐛",
+  hobbies: ["🎮 Video games", "📺 Anime", "📚 Manga"],
+};
+```
 
-* ⚙️ Experienced with **React, Next.js, TypeScript, Angular, Vue.js, MUI, Tailwind CSS, Bootstrap, Zustand, React Query, Webflow, and WordPress**.
+</td>
+<td width="42%" align="center" valign="middle">
+  <img src="https://media.giphy.com/media/qgQUggACo3Pfv687qPC/giphy.gif" width="100%" alt="Coding" />
+</td>
+</tr>
+</table>
 
-* 🧪 I enjoy solving complex JavaScript problems, optimizing application performance, improving accessibility, and creating developer-friendly solutions.
-
-* 🚀 Focused on building **fast, responsive, accessible, and SEO-friendly** applications using modern frontend best practices.
-
-* 🎨 Experienced in transforming **Figma designs into pixel-perfect, responsive interfaces**.
-
-* 🛠️ Before transitioning into software development, I worked as an **Electrical Panel Designer using AutoCAD**, which strengthened my problem-solving skills, attention to detail, and engineering mindset.
-
-* 🌱 Currently expanding my expertise into **full-stack development**, exploring Next.js Server Components, Server Actions, API Routes, Node.js, Express.js, and databases.
-
-<br clear="right"/>
-
----
-
-## 🚀 What I'm Currently Doing
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=61DAFB&center=true&vCenter=true&width=750&lines=Building+React+%26+Next.js+Applications;Creating+Reusable+UI+Component+Systems;Optimizing+Core+Web+Vitals;Improving+Accessibility+%26+SEO;Exploring+Next.js+Server+Components;Learning+Full-Stack+Development" />
-</p>
+- 💻 I turn **Figma designs into pixel-perfect, responsive interfaces**.
+- 🧩 I love building **reusable component systems** and developer-friendly utilities.
+- ⚡ I obsess over **Core Web Vitals** — code splitting, lazy loading, caching.
+- 🛠️ My engineering background in **electrical panel design** gave me an eye for detail that carries into every UI I ship.
 
 ---
 
 ## 🧰 Tech Stack
 
-### 🌐 Frontend
-
+<p align="center"><b>Frontend</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,nextjs,gatsby,vue,angular" />
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,nextjs,gatsby,vue,angular&theme=dark&perline=10" /></a>
 </p>
 
-### 🎨 UI, Animation & Visualization
-
+<p align="center"><b>Styling & Design</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mui,tailwind,bootstrap,figma" />
+  <img src="https://skillicons.dev/icons?i=tailwind,mui,bootstrap,figma,xd&theme=dark" />
 </p>
 
+<p align="center"><b>Backend, CMS & Tools</b></p>
 <p align="center">
-
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock\&logoColor=black)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs\&logoColor=white)
-![Swiper](https://img.shields.io/badge/Swiper-6332F6?logo=swiper\&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?logo=axios\&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?logo=reactquery\&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-443E38?logo=react\&logoColor=white)
-
-</p>
-
-### 🏗️ Website Builders & CMS
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=wordpress,webflow" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,wordpress,webflow,git,github,vscode,postman,npm,vite&theme=dark" />
 </p>
 
 <p align="center">
-
-![Wix](https://img.shields.io/badge/Wix-0C6EFC?logo=wix\&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?logo=shopify\&logoColor=white)
-![Strapi](https://img.shields.io/badge/Strapi-2E7EEA?logo=strapi\&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?logo=adobexd\&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-0055FF?logo=framer\&logoColor=white)
-
-</p>
-
-### ⚙️ Backend & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,github,vscode,postman,npm,vite" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swiper-6332F6?style=flat-square&logo=swiper&logoColor=white" />
+  <img src="https://img.shields.io/badge/Strapi-2E7EEA?style=flat-square&logo=strapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wix-0C6EFC?style=flat-square&logo=wix&logoColor=white" />
 </p>
 
 ---
 
-## 📚 Latest Learnings & Experiments
+## 🌟 Featured Projects
 
-* 🚀 Building and delivering high-performance, responsive web applications using **React, Next.js, and TypeScript**.
-
-* 🧠 Deepening my expertise in **Next.js Server Components, App Router, and modern rendering strategies**.
-
-* 🏗️ Designing reusable and scalable **UI component libraries** that improve consistency and developer experience.
-
-* ⚡ Exploring advanced frontend optimization techniques such as **code splitting, lazy loading, caching, and Core Web Vitals optimization**.
-
-* 🎨 Improving user experiences through **responsive design, accessibility, and pixel-perfect Figma implementation**.
-
-* 🔍 Experimenting with modern frontend architecture, state management, and performance-focused development workflows.
-
----
-
-## 📊 GitHub Statistics
-
+<!-- Replace REPO_1 / REPO_2 with your best repositories -->
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=RahulChandlawala&show_icons=true&theme=react&hide_border=true&rank_icon=github"
-    width="48%"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=RahulChandlawala&theme=react&hide_border=true"
-    width="48%"
-  />
+  <a href="https://github.com/RahulChandlawala/REPO_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RahulChandlawala&repo=REPO_1&theme=react&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/RahulChandlawala/REPO_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RahulChandlawala&repo=REPO_2&theme=react&hide_border=true&bg_color=0D1117" />
+  </a>
 </p>
 
 ---
 
-## 📈 GitHub Activity
+## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=RahulChandlawala&theme=react-dark&hide_border=true&area=true"
-    width="95%"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=RahulChandlawala&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&rank_icon=github&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulChandlawala&layout=compact&theme=react&hide_border=true&bg_color=0D1117&langs_count=8" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RahulChandlawala&theme=react&hide_border=true&background=0D1117" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RahulChandlawala&theme=react&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RahulChandlawala&theme=react-dark&hide_border=true&area=true&bg_color=0D1117" width="100%" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Watch the Snake Eat My Contributions
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/RahulChandlawala/RahulChandlawala/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-    width="95%"
-  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RahulChandlawala/RahulChandlawala/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RahulChandlawala/RahulChandlawala/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/RahulChandlawala/RahulChandlawala/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
 </p>
 
 ---
 
-## 📫 Reach Me
+## 🤝 Let's Build Something Together
 
 <p align="center">
-
-<a href="mailto:rahulchandlawala@gmail.com">
-  <img src="https://img.shields.io/badge/Email-rahulchandlawala%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.upwork.com/freelancers/~014e3e16bbdd240029">
-  <img src="https://img.shields.io/badge/Upwork-Profile-14A800?style=for-the-badge&logo=upwork&logoColor=white" />
-</a>
-
-<a href="https://github.com/RahulChandlawala">
-  <img src="https://img.shields.io/badge/GitHub-RahulChandlawala-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</p>
-
----
-
-## ⭐ Fun Stuff
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1800&color=61DAFB&center=true&vCenter=true&width=700&lines=I+love+creating+reusable+snippets+%26+utilities;Big+fan+of+clean+and+readable+UI+code;I+enjoy+video+games%2C+anime+%26+manga;Always+curious+about+new+frontend+technologies" />
-</p>
-
----
-
-## 💡 A Little More About Me
-
-
-
-
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <h3>🚀 What I Build</h3>
-      <p>
-        Scalable Web Applications<br/>
-        Reusable UI Components<br/>
-        Responsive Interfaces<br/>
-        SEO-Friendly Websites
-      </p>
-    </td>
-    <td align="center" width="50%">
-      <h3>⚡ What I Focus On</h3>
-      <p>
-        Performance Optimization<br/>
-        Accessibility<br/>
-        Clean Architecture<br/>
-        Core Web Vitals
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="50%">
-      <h3>🧠 Currently Learning</h3>
-      <p>
-        Next.js Server Components<br/>
-        Server Actions<br/>
-        Node.js & Express<br/>
-        Full-Stack Development
-      </p>
-    </td>
-    <td align="center" width="50%">
-      <h3>🎨 I Enjoy</h3>
-      <p>
-        Clean UI Design<br/>
-        Figma to Code<br/>
-        Reusable Utilities<br/>
-        Developer Experience
-      </p>
-    </td>
-  </tr>
-</table>
-```
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=Always+open+to+interesting+frontend+challenges;Let's+build+something+awesome+together!;Thanks+for+visiting+my+profile+%F0%9F%91%8B" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=61DAFB&center=true&vCenter=true&width=640&lines=Got+a+frontend+challenge%3F+Let's+talk!;Available+for+freelance+projects+%F0%9F%92%BC;Thanks+for+stopping+by+%F0%9F%91%8B" />
 </p>
 
 <p align="center">
-  ⭐ If you like my work, consider starring my repositories!
+  <a href="mailto:rahulchandlawala@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-rahulchandlawala%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+<p align="center"><i>⭐ If you like my work, consider starring a repo — it really helps!</i></p>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,50:1F6FEB,100:0D1117&height=130&section=footer&animation=twinkling" width="100%" />
 </p>
