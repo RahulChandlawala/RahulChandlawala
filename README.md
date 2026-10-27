@@ -25,18 +25,9 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> About Me
 
-```ts
-const rahul = {
-  role: "Frontend Developer",
-  location: "Surat, India",
-  focus: ["Performance", "Accessibility", "SEO", "Clean Architecture"],
-  stack: ["React", "Next.js", "TypeScript", "Tailwind", "MUI"],
-  currentlyLearning: ["Server Components", "Server Actions", "Node.js", "Express"],
-  formerly: "Electrical Panel Designer (AutoCAD) ⚡",
-  funFact: "Bugs fear my console.log() 🐛",
-  hobbies: ["🎮 Video games", "📺 Anime", "📚 Manga"],
-};
-```
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=900&color=61DAFB&center=true&vCenter=true&width=700&height=40&lines=%F0%9F%92%BB+Frontend+Developer+from+Surat%2C+India;%E2%9A%A1+Obsessed+with+performance+%26+Core+Web+Vitals;%E2%99%BF+Building+accessible%2C+SEO-friendly+apps;%F0%9F%A7%A0+Learning+Server+Components+%26+Node.js;%F0%9F%94%8C+Ex-Electrical+Panel+Designer+turned+dev;%F0%9F%8E%AE+Gamer+%E2%80%A2+Anime+%26+Manga+fan" alt="About me typing animation" />
+</p>
 
 - 💻 I turn **Figma designs into pixel-perfect, responsive interfaces**.
 - 🧩 I love building **reusable component systems** and developer-friendly utilities.
