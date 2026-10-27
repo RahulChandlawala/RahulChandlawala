@@ -25,14 +25,10 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> About Me
 
-<table>
-<tr>
-<td width="58%" valign="top">
-
 ```ts
 const rahul = {
   role: "Frontend Developer",
-  location: "Surat, India 🇮🇳",
+  location: "Surat, India",
   focus: ["Performance", "Accessibility", "SEO", "Clean Architecture"],
   stack: ["React", "Next.js", "TypeScript", "Tailwind", "MUI"],
   currentlyLearning: ["Server Components", "Server Actions", "Node.js", "Express"],
@@ -41,13 +37,6 @@ const rahul = {
   hobbies: ["🎮 Video games", "📺 Anime", "📚 Manga"],
 };
 ```
-
-</td>
-<td width="42%" align="center" valign="middle">
-  <img src="https://media.giphy.com/media/qgQUggACo3Pfv687qPC/giphy.gif" width="100%" alt="Coding" />
-</td>
-</tr>
-</table>
 
 - 💻 I turn **Figma designs into pixel-perfect, responsive interfaces**.
 - 🧩 I love building **reusable component systems** and developer-friendly utilities.
