@@ -29,11 +29,25 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=900&color=61DAFB&center=true&vCenter=true&width=700&height=40&lines=%F0%9F%92%BB+Frontend+Developer+from+Surat%2C+India;%E2%9A%A1+Obsessed+with+performance+%26+Core+Web+Vitals;%E2%99%BF+Building+accessible%2C+SEO-friendly+apps;%F0%9F%A7%A0+Learning+Server+Components+%26+Node.js;%F0%9F%94%8C+Ex-Electrical+Panel+Designer+turned+dev;%F0%9F%8E%AE+Gamer+%E2%80%A2+Anime+%26+Manga+fan" alt="About me typing animation" />
 </p>
 
-- 💻 I turn **Figma designs into pixel-perfect, responsive interfaces**.
-- 🧩 I love building **reusable component systems** and developer-friendly utilities.
-- ⚡ I obsess over **Core Web Vitals** — code splitting, lazy loading, caching.
-- 🛠️ My engineering background in **electrical panel design** gave me an eye for detail that carries into every UI I ship.
+💻 I turn Figma designs into pixel-perfect, responsive interfaces with a strong focus on UI consistency and user experience.
 
+🧩 I love building reusable component systems, scalable architectures, and developer-friendly utilities.
+
+⚡ I obsess over Core Web Vitals and performance optimization — code splitting, lazy loading, caching, and rendering strategies.
+
+⚛️ I work extensively with React, Next.js, TypeScript, and modern frontend ecosystems to build scalable web applications.
+
+🎨 I'm passionate about clean UI architecture, design systems, and component-driven development, making interfaces easier to maintain and scale.
+
+🔌 I enjoy working with REST APIs, data-heavy applications, complex filters, interactive tables, and dynamic user interfaces.
+
+🚀 I have experience modernizing applications through framework upgrades, library migrations, and frontend performance improvements.
+
+🌐 I work with both no-code platforms like Webflow and custom development, choosing the right approach for each project.
+
+🔍 I care about the little things — accessibility, responsive behavior, cross-browser compatibility, and edge cases.
+
+🛠️ My engineering background in electrical panel design gave me an eye for detail, structured problem-solving, and precision that carries into every UI I ship.
 ---
 
 ## 🧰 Tech Stack
